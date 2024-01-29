@@ -2,16 +2,16 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
-# 記事の投稿
+# 記事の寄稿
 
 アドビでは、コミュニティおよびドキュメントチーム以外のアドビ社員からの寄稿を歓迎します。
 
 ## アドビオープンソース行動規範
 
-このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md)または [NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、「[投稿](contributing.md)」を参照してください。
+このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md) または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[投稿](contributing.md)の記事を参照してください。
 
 ## Adobeコンテンツへの投稿方法
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 外部寄稿者
 
-### 小規模な変更
+### 軽微な変更
 
 軽微な更新をおこなう場合は、次の手順に従います。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    詳しくは、一般的な[アドビドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)（英語）を参照してください。
 
-このリポジトリのドキュメントおよびコード例について投稿者が送信した軽微な修正や説明は、アドビの利用条件の適用を受けます。
+このリポジトリ内のドキュメントおよびコード例について投稿した軽微な修正または説明には、アドビの利用条件が適用されます。
 
 ### コミュニティからの大きな変更または新しいトピック
 
@@ -43,7 +43,7 @@ Adobeコミュニティのメンバーが新しいトピックを作成したり
 
 コミュニティ投稿者は、GitHub UI を使用して簡単な編集をおこなったり、リポジトリをフォークして大規模な投稿をおこなったりできます。
 
-詳しくは、[アドビドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)（英語）を参照してください。
+詳しくは、[アドビドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)（英語）を参照してください。
 
 ## 内部貢献者
 
@@ -53,12 +53,12 @@ Adobe Experience Cloudソリューションの製品チームのテクニカル�
 
 このリポジトリ内の記事はすべて、GitHub 固有の Markdown を使用しています。 Markdown に詳しくない場合は、以下を参照してください。
 
-* [マークダウンの基礎知識](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-* [Markdown の早見表（印刷用）](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [マークダウンの基礎知識](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [印刷可能なマークダウンチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
-公開リポジトリでは、プル要求に自動ラベルが割り当てられて、プル要求ワークフローの管理とプル要求の処理状況の把握に役立ちます。
+公開リポジトリでは、アドビがプル要求のワークフローを管理したり、プル要求の状況を寄稿者が把握できるようにしたりするために、プル要求に自動ラベルが割り当てられます。
 
-* **変更が作成者に送信されました**：保留中のプルリクエストについて作成者に通知されました。
-* **ready-to-merge**（結合準備完了）：プル要求レビューチームによるレビューの準備ができました。
+* **Change sent to author**：保留中のプル要求について作成者に通知されました。
+* **ready-to-merge**：プル要求レビューチームによるレビューの準備ができました。
